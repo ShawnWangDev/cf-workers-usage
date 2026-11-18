@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T02:07:07.916Z",
+  "updatedAt": "2026-11-18T11:07:40.073Z",
   "data": [
     {
       "dimensions": {
@@ -173,7 +173,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T01:08:58Z",
+        "datetime": "2026-10-21T03:12:44Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -183,7 +183,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:12:44Z",
+        "datetime": "2026-11-17T01:08:58Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -523,22 +523,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-08T14:43:13Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-15T07:54:48Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-08T14:43:13Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -773,22 +773,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T11:27:51Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T05:59:59Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T11:27:51Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -1104,6 +1104,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-22T04:56:15Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T07:21:20Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -1559,6 +1569,16 @@
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:05:02Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -2683,12 +2703,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:31:47Z",
+        "datetime": "2026-10-21T08:14:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 40
+        "requests": 10
       }
     },
     {
@@ -2699,16 +2719,6 @@
       "sum": {
         "errors": 0,
         "requests": 20
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-21T08:14:40Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
       }
     },
     {
@@ -2743,7 +2753,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T06:48:31Z",
+        "datetime": "2026-11-08T14:50:08Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -2753,7 +2763,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-08T14:50:08Z",
+        "datetime": "2026-10-21T06:48:31Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -3493,7 +3503,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-07T13:56:56Z",
+        "datetime": "2026-10-21T03:30:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -3503,7 +3513,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:30:01Z",
+        "datetime": "2026-11-07T13:56:56Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -4523,6 +4533,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:38Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-29T13:07:01Z",
         "scriptName": "emby-proxy"
       },
@@ -4593,6 +4613,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-12T09:20:04Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-25T00:23:17Z",
         "scriptName": "emby-proxy"
       },
@@ -4603,7 +4633,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-12T09:20:04Z",
+        "datetime": "2026-11-18T07:21:22Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -6533,7 +6563,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:09:10Z",
+        "datetime": "2026-11-11T18:03:11Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -6543,7 +6573,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-11T18:03:11Z",
+        "datetime": "2026-10-21T03:09:10Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -6653,16 +6683,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T18:11:22Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:01:57Z",
         "scriptName": "emby-proxy"
       },
@@ -6674,6 +6694,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T02:23:19Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-06T18:11:22Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -7173,7 +7203,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-11T06:17:13Z",
+        "datetime": "2026-11-13T15:29:12Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -7183,7 +7213,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T15:29:12Z",
+        "datetime": "2026-11-11T06:17:13Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -7353,22 +7383,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-22T10:40:59Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:27:34Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-22T10:40:59Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -7733,16 +7763,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T14:24:17Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:23:13Z",
         "scriptName": "emby-proxy"
       },
@@ -7753,7 +7773,27 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-10-21T14:24:17Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-30T11:20:09Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:04:42Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -8093,22 +8133,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-27T05:43:20Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-07T03:30:12Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-27T05:43:20Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -8863,22 +8903,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-07T14:23:57Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-05T17:10:57Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-07T14:23:57Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -9043,12 +9083,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T11:57:10Z",
+        "datetime": "2026-10-23T12:11:43Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 30
+        "requests": 10
       }
     },
     {
@@ -9063,12 +9103,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-23T12:11:43Z",
+        "datetime": "2026-11-17T11:57:10Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 10
+        "requests": 30
       }
     },
     {
@@ -9823,6 +9863,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:12Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-31T18:54:35Z",
         "scriptName": "emby-proxy"
       },
@@ -10034,6 +10084,16 @@
     {
       "dimensions": {
         "datetime": "2026-11-06T16:12:43Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T06:31:33Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -10373,22 +10433,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-29T14:27:29Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-24T05:43:59Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-29T14:27:29Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -10513,7 +10573,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-14T13:27:18Z",
+        "datetime": "2026-10-27T16:55:36Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -10533,7 +10593,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-27T16:55:36Z",
+        "datetime": "2026-11-14T13:27:18Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -10624,6 +10684,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T10:55:25Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T04:54:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -10913,7 +10983,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T15:59:13Z",
+        "datetime": "2026-10-21T02:45:36Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -10923,7 +10993,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:45:36Z",
+        "datetime": "2026-10-21T15:59:13Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -11069,6 +11139,16 @@
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T04:54:47Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 40
       }
     },
     {
@@ -11403,7 +11483,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-01T11:43:27Z",
+        "datetime": "2026-10-21T09:58:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -11413,7 +11493,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T09:58:28Z",
+        "datetime": "2026-10-21T02:25:09Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -11433,7 +11513,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:25:09Z",
+        "datetime": "2026-11-01T11:43:27Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -11664,6 +11744,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T10:12:24Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T03:04:48Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -12043,7 +12133,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-08T04:16:34Z",
+        "datetime": "2026-11-09T02:54:15Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -12053,7 +12143,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-09T02:54:15Z",
+        "datetime": "2026-11-08T04:16:34Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -12423,22 +12513,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:38:07Z",
+        "datetime": "2026-10-21T15:54:51Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-11-17T05:29:28Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
       }
     },
     {
@@ -12453,12 +12533,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T15:54:51Z",
+        "datetime": "2026-11-17T05:29:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 10
+        "requests": 20
       }
     },
     {
@@ -12783,16 +12863,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T10:15:13Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:46:01Z",
         "scriptName": "emby-proxy"
       },
@@ -13084,6 +13154,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T09:05:23Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:03:19Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -13453,12 +13533,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-05T06:51:06Z",
+        "datetime": "2026-10-21T09:55:53Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 20
+        "requests": 40
       }
     },
     {
@@ -13473,12 +13553,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T09:55:53Z",
+        "datetime": "2026-11-05T06:51:06Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 40
+        "requests": 20
       }
     },
     {
@@ -13693,7 +13773,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:46:00Z",
+        "datetime": "2026-10-30T11:02:24Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -13703,7 +13783,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-30T11:02:24Z",
+        "datetime": "2026-10-21T02:46:00Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -13883,22 +13963,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-02T21:17:27Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 40
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:38:24Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-02T21:17:27Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 40
       }
     },
     {
@@ -13969,16 +14049,6 @@
       "sum": {
         "errors": 0,
         "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T08:18:01Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
       }
     },
     {
@@ -14223,7 +14293,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-09T14:45:28Z",
+        "datetime": "2026-10-23T11:59:41Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -14233,7 +14303,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-23T11:59:41Z",
+        "datetime": "2026-11-09T14:45:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -14509,6 +14579,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T10:10:58Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 40
       }
     },
     {
@@ -14983,22 +15063,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T13:20:05Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T16:11:47Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T13:20:05Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -15533,22 +15613,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-22T04:56:28Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:09:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-22T04:56:28Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -16213,22 +16293,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:35:09Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T06:00:42Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:35:09Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -17063,7 +17143,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-28T14:57:09Z",
+        "datetime": "2026-10-21T22:17:46Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -17073,7 +17153,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T22:17:46Z",
+        "datetime": "2026-10-28T14:57:09Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -17263,22 +17343,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:55:55Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T05:58:49Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:55:55Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -17919,6 +17999,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:05:25Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -18903,6 +18993,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:50Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T02:38:45Z",
         "scriptName": "emby-proxy"
       },
@@ -18983,22 +19083,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:17:57Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 40
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:40:46Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-06T05:17:57Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 40
       }
     },
     {
@@ -19083,16 +19183,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T20:44:30Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:43:41Z",
         "scriptName": "emby-proxy"
       },
@@ -19103,7 +19193,17 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T12:49:26Z",
+        "datetime": "2026-11-17T20:44:30Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-13T12:06:18Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -19123,7 +19223,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T12:06:18Z",
+        "datetime": "2026-10-21T12:49:26Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -19153,22 +19253,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-15T13:22:38Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:35:51Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-15T13:22:38Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -19423,7 +19523,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-28T14:07:18Z",
+        "datetime": "2026-11-07T13:35:07Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -19433,7 +19533,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-07T13:35:07Z",
+        "datetime": "2026-10-28T14:07:18Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -19794,6 +19894,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-27T00:37:56Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:06:37Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -20583,22 +20693,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:05:51Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:50:39Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T03:05:51Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -21963,7 +22073,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-05T04:05:28Z",
+        "datetime": "2026-10-31T10:57:27Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -21973,7 +22083,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-31T10:57:27Z",
+        "datetime": "2026-11-05T04:05:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -22123,7 +22233,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:10:51Z",
+        "datetime": "2026-10-21T06:47:39Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -22133,7 +22243,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T06:47:39Z",
+        "datetime": "2026-11-06T05:10:51Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -22253,12 +22363,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T09:55:28Z",
+        "datetime": "2026-11-18T09:05:57Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 20
+        "requests": 10
       }
     },
     {
@@ -22269,6 +22379,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T09:55:28Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -22313,7 +22433,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:20:01Z",
+        "datetime": "2026-10-26T20:46:09Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -22323,7 +22443,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-26T20:46:09Z",
+        "datetime": "2026-11-06T05:20:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -24443,7 +24563,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-24T09:45:35Z",
+        "datetime": "2026-10-21T02:45:34Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -24453,7 +24573,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:45:34Z",
+        "datetime": "2026-10-24T09:45:35Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -24564,6 +24684,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T09:26:57Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T06:43:47Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -24983,6 +25113,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:13Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T09:56:29Z",
         "scriptName": "emby-proxy"
       },
@@ -25033,7 +25173,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-12T14:36:01Z",
+        "datetime": "2026-10-21T02:04:26Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -25043,7 +25183,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:04:26Z",
+        "datetime": "2026-11-12T14:36:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -25173,7 +25313,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-14T13:57:39Z",
+        "datetime": "2026-10-31T14:59:46Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -25183,7 +25323,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-31T14:59:46Z",
+        "datetime": "2026-11-14T13:57:39Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -25493,7 +25633,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T05:58:14Z",
+        "datetime": "2026-11-09T21:50:22Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -25503,7 +25643,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-09T21:50:22Z",
+        "datetime": "2026-10-21T05:58:14Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -26093,6 +26233,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:03:30Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T05:58:35Z",
         "scriptName": "emby-proxy"
       },
@@ -26603,7 +26753,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-15T07:44:49Z",
+        "datetime": "2026-10-29T07:17:14Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -26613,7 +26763,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-29T07:17:14Z",
+        "datetime": "2026-11-15T07:44:49Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -27003,6 +27153,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:03:16Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-15T08:28:46Z",
         "scriptName": "emby-proxy"
       },
@@ -27083,7 +27243,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-11T06:34:23Z",
+        "datetime": "2026-11-18T09:05:16Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -27093,7 +27253,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:03:21Z",
+        "datetime": "2026-11-11T06:34:23Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -27113,22 +27273,22 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-10-21T03:03:21Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-17T12:56:27Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 110
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T03:52:30Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
       }
     },
     {
@@ -27833,22 +27993,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:44:07Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T13:06:55Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:44:07Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -28103,6 +28263,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-10-21T03:11:28Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-27T22:50:10Z",
         "scriptName": "emby-proxy"
       },
@@ -28114,16 +28284,6 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T02:43:33Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-21T03:11:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -28199,16 +28359,6 @@
       "sum": {
         "errors": 0,
         "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T05:46:42Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 130
       }
     },
     {
@@ -28553,7 +28703,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T23:53:55Z",
+        "datetime": "2026-10-19T12:12:19Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -28563,7 +28713,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T12:12:19Z",
+        "datetime": "2026-11-13T23:53:55Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -28594,6 +28744,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T08:15:41Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T08:02:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -28793,16 +28953,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:46:40Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:21:22Z",
         "scriptName": "emby-proxy"
       },
@@ -28813,12 +28963,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:34:57Z",
+        "datetime": "2026-10-21T02:46:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 30
+        "requests": 10
       }
     },
     {
@@ -28829,6 +28979,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:34:57Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -29103,7 +29263,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T15:26:15Z",
+        "datetime": "2026-11-09T01:44:23Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -29123,7 +29283,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-09T01:44:23Z",
+        "datetime": "2026-11-13T15:26:15Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -29893,6 +30053,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-05T20:56:43Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-15T07:44:51Z",
         "scriptName": "emby-proxy"
       },
@@ -29903,7 +30073,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-05T20:56:43Z",
+        "datetime": "2026-11-18T10:29:33Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -30053,7 +30223,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:59:16Z",
+        "datetime": "2026-10-21T11:50:54Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -30063,7 +30233,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T11:50:54Z",
+        "datetime": "2026-11-06T05:59:16Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -30593,6 +30763,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:18Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-19T13:16:37Z",
         "scriptName": "emby-proxy"
       },
@@ -31073,6 +31253,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T02:56:13Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-12T09:58:21Z",
         "scriptName": "emby-proxy"
       },
@@ -31283,22 +31473,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:04:03Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 40
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-22T08:17:45Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T03:04:03Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 40
       }
     },
     {
@@ -31693,6 +31883,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T10:11:07Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 250
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-05T17:10:47Z",
         "scriptName": "emby-proxy"
       },
@@ -31953,7 +32153,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-31T05:33:36Z",
+        "datetime": "2026-11-13T06:05:21Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -31963,7 +32163,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T06:05:21Z",
+        "datetime": "2026-10-31T05:33:36Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -32189,16 +32389,6 @@
       "sum": {
         "errors": 0,
         "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T03:52:31Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 50
       }
     },
     {
@@ -33653,7 +33843,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:21:59Z",
+        "datetime": "2026-10-20T21:49:31Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -33663,7 +33853,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-20T21:49:31Z",
+        "datetime": "2026-10-21T03:21:59Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -33863,7 +34053,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T20:50:10Z",
+        "datetime": "2026-10-31T11:39:08Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -33873,7 +34063,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-31T11:39:08Z",
+        "datetime": "2026-11-17T20:50:10Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -33903,22 +34093,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:21:29Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T09:28:49Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 50
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-06T05:21:29Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -34303,26 +34493,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T09:21:23Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T08:31:46Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-04T06:43:22Z",
         "scriptName": "emby-proxy"
       },
@@ -34513,16 +34683,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T05:46:43Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 40
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-11T11:37:42Z",
         "scriptName": "emby-proxy"
       },
@@ -34699,6 +34859,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T04:54:26Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -34983,22 +35153,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:38:31Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-25T00:21:52Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:38:31Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -35023,22 +35193,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T09:17:44Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-25T16:14:03Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 100
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T09:17:44Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -35093,22 +35263,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:43:11Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T06:15:15Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:43:11Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -35353,22 +35523,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T10:42:12Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T08:02:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T10:42:12Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -35603,7 +35773,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T04:43:31Z",
+        "datetime": "2026-10-21T10:42:07Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -35613,7 +35783,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T10:42:07Z",
+        "datetime": "2026-10-21T04:43:31Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -35973,6 +36143,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T10:11:01Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 50
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T02:22:23Z",
         "scriptName": "emby-proxy"
       },
@@ -36273,16 +36453,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:18:21Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-17T04:58:57Z",
         "scriptName": "emby-proxy"
       },
@@ -36513,7 +36683,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:31:26Z",
+        "datetime": "2026-10-20T11:47:43Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -36523,7 +36693,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-20T11:47:43Z",
+        "datetime": "2026-10-21T03:31:26Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -36743,22 +36913,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:12:24Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T16:50:20Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-06T05:12:24Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -37073,16 +37243,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T09:46:47Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-26T05:33:33Z",
         "scriptName": "emby-proxy"
       },
@@ -37383,16 +37543,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:18:32Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T04:52:18Z",
         "scriptName": "emby-proxy"
       },
@@ -37453,7 +37603,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T13:07:22Z",
+        "datetime": "2026-10-21T02:05:22Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -37463,7 +37613,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:05:22Z",
+        "datetime": "2026-10-21T13:07:22Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -37654,6 +37804,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-27T17:16:18Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T08:27:56Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -37963,7 +38123,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-09T21:37:20Z",
+        "datetime": "2026-11-06T05:21:06Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -37973,7 +38133,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:21:06Z",
+        "datetime": "2026-11-09T21:37:20Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -38173,16 +38333,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:38:25Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-11T04:13:57Z",
         "scriptName": "emby-proxy"
       },
@@ -38203,22 +38353,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:10:56Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:43:48Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-06T05:10:56Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -38279,6 +38429,16 @@
       "sum": {
         "errors": 0,
         "requests": 40
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:05:19Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -38433,22 +38593,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-04T20:26:10Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 70
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-17T09:00:46Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-04T20:26:10Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 70
       }
     },
     {
@@ -38984,6 +39144,16 @@
     {
       "dimensions": {
         "datetime": "2026-11-06T14:41:47Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:05:08Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -39773,7 +39943,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T16:50:14Z",
+        "datetime": "2026-10-21T16:13:30Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -39793,7 +39963,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T16:13:30Z",
+        "datetime": "2026-10-21T16:50:14Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -40153,7 +40323,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T11:24:05Z",
+        "datetime": "2026-10-28T08:11:22Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -40163,7 +40333,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-28T08:11:22Z",
+        "datetime": "2026-10-21T11:24:05Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -40203,12 +40373,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T18:11:13Z",
+        "datetime": "2026-10-20T21:58:51Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 30
+        "requests": 40
       }
     },
     {
@@ -40223,12 +40393,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-20T21:58:51Z",
+        "datetime": "2026-11-06T18:11:13Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 40
+        "requests": 30
       }
     },
     {
@@ -40373,7 +40543,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-20T18:45:01Z",
+        "datetime": "2026-11-06T05:17:03Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -40383,7 +40553,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:17:03Z",
+        "datetime": "2026-10-20T18:45:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -40953,16 +41123,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:26:49Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-25T07:09:56Z",
         "scriptName": "emby-proxy"
       },
@@ -41223,7 +41383,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-25T02:25:06Z",
+        "datetime": "2026-11-04T12:18:19Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -41233,7 +41393,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-04T12:18:19Z",
+        "datetime": "2026-10-25T02:25:06Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -41359,6 +41519,16 @@
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:04:55Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -41683,22 +41853,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T05:24:07Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 50
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-09T04:50:29Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-17T05:24:07Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 50
       }
     },
     {
@@ -42029,6 +42199,16 @@
       "sum": {
         "errors": 0,
         "requests": 40
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:05:05Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -42753,6 +42933,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:31Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T06:47:25Z",
         "scriptName": "emby-proxy"
       },
@@ -42983,22 +43173,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:14:46Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-30T00:36:18Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 60
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:14:46Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -43254,16 +43444,6 @@
     {
       "dimensions": {
         "datetime": "2026-10-23T06:54:19Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T08:40:00Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -43663,22 +43843,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T22:20:29Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 50
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T05:57:07Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-06T22:20:29Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 50
       }
     },
     {
@@ -44243,7 +44423,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T15:44:01Z",
+        "datetime": "2026-10-22T09:56:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -44253,7 +44433,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-22T09:56:28Z",
+        "datetime": "2026-10-21T15:44:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -44753,16 +44933,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T08:38:51Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:05:52Z",
         "scriptName": "emby-proxy"
       },
@@ -44773,7 +44943,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T05:24:13Z",
+        "datetime": "2026-10-21T08:38:51Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -44784,6 +44954,16 @@
     {
       "dimensions": {
         "datetime": "2026-11-06T05:00:25Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-17T05:24:13Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -44953,7 +45133,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-15T10:24:09Z",
+        "datetime": "2026-11-15T13:23:27Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -44963,7 +45143,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-15T13:23:27Z",
+        "datetime": "2026-11-15T10:24:09Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -45853,22 +46033,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-28T01:36:25Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:12:00Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-28T01:36:25Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -45973,22 +46153,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-28T18:41:23Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 90
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-29T17:00:57Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-28T18:41:23Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 90
       }
     },
     {
@@ -46443,16 +46623,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:18:23Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T09:53:06Z",
         "scriptName": "emby-proxy"
       },
@@ -46683,6 +46853,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:01Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T02:41:03Z",
         "scriptName": "emby-proxy"
       },
@@ -46813,6 +46993,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-07T11:32:20Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-26T06:53:02Z",
         "scriptName": "emby-proxy"
       },
@@ -46823,12 +47013,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-07T11:32:20Z",
+        "datetime": "2026-10-21T10:41:04Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 10
+        "requests": 30
       }
     },
     {
@@ -46849,16 +47039,6 @@
       "sum": {
         "errors": 0,
         "requests": 40
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-21T10:41:04Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
       }
     },
     {
@@ -47433,22 +47613,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:51:42Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:47:44Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:51:42Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -47893,16 +48073,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T05:46:44Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-11T06:42:13Z",
         "scriptName": "emby-proxy"
       },
@@ -48123,7 +48293,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-04T06:38:40Z",
+        "datetime": "2026-10-27T04:59:27Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -48133,7 +48303,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-27T04:59:27Z",
+        "datetime": "2026-11-04T06:38:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -48553,16 +48723,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T07:46:34Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-29T14:27:03Z",
         "scriptName": "emby-proxy"
       },
@@ -48963,16 +49123,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:18:06Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-24T05:44:01Z",
         "scriptName": "emby-proxy"
       },
@@ -49133,22 +49283,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-29T03:36:40Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:39:29Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 40
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-29T03:36:40Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -49203,7 +49353,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T06:27:56Z",
+        "datetime": "2026-10-21T03:27:57Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49213,7 +49363,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:27:57Z",
+        "datetime": "2026-10-21T06:27:56Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49229,6 +49379,16 @@
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T07:21:23Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -49253,7 +49413,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T05:13:30Z",
+        "datetime": "2026-10-21T03:29:21Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49263,7 +49423,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:29:21Z",
+        "datetime": "2026-10-21T05:13:30Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49323,22 +49483,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T06:55:59Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:44:52Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T06:55:59Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -49543,6 +49703,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T04:54:49Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T12:03:05Z",
         "scriptName": "emby-proxy"
       },
@@ -49583,12 +49753,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-20T11:58:49Z",
+        "datetime": "2026-11-06T18:11:11Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 20
+        "requests": 10
       }
     },
     {
@@ -49603,12 +49773,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T18:11:11Z",
+        "datetime": "2026-10-20T11:58:49Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 10
+        "requests": 20
       }
     },
     {
@@ -49663,7 +49833,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:13:19Z",
+        "datetime": "2026-11-08T14:31:21Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49673,7 +49843,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-08T14:31:21Z",
+        "datetime": "2026-11-06T05:13:19Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49763,7 +49933,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-29T07:17:18Z",
+        "datetime": "2026-11-08T17:52:45Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49783,7 +49953,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-08T17:52:45Z",
+        "datetime": "2026-10-29T07:17:18Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49943,7 +50113,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-12T05:32:46Z",
+        "datetime": "2026-11-06T05:47:39Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -49953,7 +50123,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:47:39Z",
+        "datetime": "2026-11-12T05:32:46Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -50073,16 +50243,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T05:59:44Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-22T03:16:53Z",
         "scriptName": "emby-proxy"
       },
@@ -50193,22 +50353,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:00:02Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-20T11:57:58Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 40
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-06T05:00:02Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -50259,16 +50419,6 @@
       "sum": {
         "errors": 0,
         "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T08:31:44Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
       }
     },
     {
@@ -50449,6 +50599,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T02:56:15Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 210
       }
     },
     {
@@ -51773,7 +51933,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-11T06:13:23Z",
+        "datetime": "2026-10-21T10:55:43Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -51783,7 +51943,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T10:55:43Z",
+        "datetime": "2026-11-11T06:13:23Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -51859,16 +52019,6 @@
       "sum": {
         "errors": 0,
         "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T09:21:22Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
       }
     },
     {
@@ -53153,22 +53303,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-26T17:46:07Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 40
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-19T12:10:57Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-26T17:46:07Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 40
       }
     },
     {
@@ -53523,16 +53673,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:18:11Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T08:09:09Z",
         "scriptName": "emby-proxy"
       },
@@ -53693,6 +53833,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-02T17:03:56Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-01T02:58:02Z",
         "scriptName": "emby-proxy"
       },
@@ -53703,12 +53853,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-02T17:03:56Z",
+        "datetime": "2026-11-18T02:56:16Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 30
+        "requests": 110
       }
     },
     {
@@ -54213,16 +54363,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:26:48Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T09:26:39Z",
         "scriptName": "emby-proxy"
       },
@@ -54273,22 +54413,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-29T12:27:27Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T12:51:56Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-29T12:27:27Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -54963,22 +55103,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T16:19:28Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-09T16:57:08Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-13T16:19:28Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -54993,7 +55133,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:35:32Z",
+        "datetime": "2026-10-21T13:09:11Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -55003,7 +55143,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T13:09:11Z",
+        "datetime": "2026-10-21T03:35:32Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -55683,16 +55823,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T05:46:41Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:26:54Z",
         "scriptName": "emby-proxy"
       },
@@ -56003,7 +56133,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-11T05:52:18Z",
+        "datetime": "2026-10-21T02:44:09Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -56013,7 +56143,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:44:09Z",
+        "datetime": "2026-11-11T05:52:18Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -56254,6 +56384,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T02:45:18Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T08:48:23Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -56623,7 +56763,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-23T17:09:50Z",
+        "datetime": "2026-10-22T08:17:12Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -56633,7 +56773,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-22T08:17:12Z",
+        "datetime": "2026-10-23T17:09:50Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -56833,7 +56973,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-26T13:46:08Z",
+        "datetime": "2026-11-07T12:34:49Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -56843,7 +56983,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-07T12:34:49Z",
+        "datetime": "2026-10-26T13:46:08Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -56939,6 +57079,16 @@
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T10:10:59Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 70
       }
     },
     {
@@ -57134,16 +57284,6 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T11:22:51Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T02:17:18Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -57673,6 +57813,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T04:54:22Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T09:39:17Z",
         "scriptName": "emby-proxy"
       },
@@ -58033,7 +58183,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-09T05:17:09Z",
+        "datetime": "2026-10-21T10:53:16Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -58043,7 +58193,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T10:53:16Z",
+        "datetime": "2026-11-09T05:17:09Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -58653,6 +58803,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-12T09:20:13Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-15T00:42:40Z",
         "scriptName": "emby-proxy"
       },
@@ -58664,16 +58824,6 @@
     {
       "dimensions": {
         "datetime": "2026-11-06T16:12:58Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-11-12T09:20:13Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -58744,16 +58894,6 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T06:30:40Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T07:15:55Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -59363,16 +59503,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:31:43Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-20T15:34:57Z",
         "scriptName": "emby-proxy"
       },
@@ -59449,6 +59579,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:05:14Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -59963,6 +60103,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T10:10:55Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T02:05:55Z",
         "scriptName": "emby-proxy"
       },
@@ -60234,6 +60384,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T02:35:15Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T02:24:23Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -60693,6 +60853,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T08:12:47Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-11T17:18:09Z",
         "scriptName": "emby-proxy"
       },
@@ -60859,16 +61029,6 @@
       "sum": {
         "errors": 0,
         "requests": 80
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T09:21:21Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 130
       }
     },
     {
@@ -61333,22 +61493,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-23T06:23:11Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:14:27Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-23T06:23:11Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -61403,22 +61563,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T13:10:40Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T12:09:26Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-17T13:10:40Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -61523,17 +61683,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:17:43Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-21T06:00:37Z",
+        "datetime": "2026-10-23T10:36:32Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -61543,7 +61693,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-23T10:36:32Z",
+        "datetime": "2026-10-21T06:00:37Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -61913,7 +62063,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-10T07:44:06Z",
+        "datetime": "2026-11-06T05:04:23Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -61923,7 +62073,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:04:23Z",
+        "datetime": "2026-11-10T07:44:06Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -62083,7 +62233,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:30:14Z",
+        "datetime": "2026-10-20T13:41:58Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -62093,7 +62243,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-20T13:41:58Z",
+        "datetime": "2026-10-21T02:30:14Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -62344,16 +62494,6 @@
     {
       "dimensions": {
         "datetime": "2026-10-25T16:16:02Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T08:18:29Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -63193,12 +63333,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T05:41:36Z",
+        "datetime": "2026-11-18T09:03:10Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 50
+        "requests": 10
       }
     },
     {
@@ -63209,6 +63349,16 @@
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-13T05:41:36Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 50
       }
     },
     {
@@ -63269,16 +63419,6 @@
       "sum": {
         "errors": 0,
         "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T09:21:24Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
       }
     },
     {
@@ -63373,7 +63513,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-23T11:53:06Z",
+        "datetime": "2026-10-21T05:57:30Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -63383,7 +63523,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T05:57:30Z",
+        "datetime": "2026-10-23T11:53:06Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -63423,22 +63563,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-14T18:01:57Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 40
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-28T00:56:47Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-14T18:01:57Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 40
       }
     },
     {
@@ -63473,7 +63613,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:43:08Z",
+        "datetime": "2026-10-21T08:29:58Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -63483,7 +63623,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T08:29:58Z",
+        "datetime": "2026-10-21T02:43:08Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -63523,7 +63663,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-26T11:26:22Z",
+        "datetime": "2026-11-07T14:43:42Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -63533,7 +63673,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-07T14:43:42Z",
+        "datetime": "2026-10-26T11:26:22Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -63703,22 +63843,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:41:16Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-05T02:34:45Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 100
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:41:16Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -64163,6 +64303,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T10:40:01Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T03:32:09Z",
         "scriptName": "emby-proxy"
       },
@@ -64243,22 +64393,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-24T05:49:23Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 80
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-29T15:33:04Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-24T05:49:23Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 80
       }
     },
     {
@@ -64333,22 +64483,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T04:47:28Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T04:59:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T04:47:28Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -64673,22 +64823,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-22T09:36:33Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T08:16:26Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-22T09:36:33Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -64754,16 +64904,6 @@
     {
       "dimensions": {
         "datetime": "2026-11-10T07:40:54Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T06:52:25Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -65063,6 +65203,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:03:33Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T03:10:54Z",
         "scriptName": "emby-proxy"
       },
@@ -65099,6 +65249,16 @@
       "sum": {
         "errors": 0,
         "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:04:58Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -65273,22 +65433,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:38:39Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T10:53:02Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:38:39Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -65583,16 +65743,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:31:37Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-19T22:56:26Z",
         "scriptName": "emby-proxy"
       },
@@ -65853,6 +66003,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:03:28Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-06T05:13:38Z",
         "scriptName": "emby-proxy"
       },
@@ -66014,6 +66174,16 @@
     {
       "dimensions": {
         "datetime": "2026-11-07T14:42:33Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:03:15Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -66663,7 +66833,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T15:59:20Z",
+        "datetime": "2026-11-17T12:55:56Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -66673,7 +66843,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T12:55:56Z",
+        "datetime": "2026-10-21T15:59:20Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -66953,7 +67123,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:14:30Z",
+        "datetime": "2026-10-25T00:22:30Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -66963,7 +67133,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-25T00:22:30Z",
+        "datetime": "2026-10-21T02:14:30Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -67483,22 +67653,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T13:21:35Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-05T20:56:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T13:21:35Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -67633,6 +67803,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T10:11:05Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 140
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-21T09:06:47Z",
         "scriptName": "emby-proxy"
       },
@@ -67663,22 +67843,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-08T21:44:48Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-17T11:50:25Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 40
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-08T21:44:48Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -67863,7 +68043,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T11:34:49Z",
+        "datetime": "2026-10-21T12:49:00Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -67873,7 +68053,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T12:49:00Z",
+        "datetime": "2026-11-17T11:34:49Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -68533,7 +68713,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-05T15:14:33Z",
+        "datetime": "2026-10-21T02:06:44Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -68543,7 +68723,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:06:44Z",
+        "datetime": "2026-11-05T15:14:33Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -70583,22 +70763,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-17T21:58:49Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:38:54Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-17T21:58:49Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -71283,7 +71463,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T07:21:40Z",
+        "datetime": "2026-10-21T03:32:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -71293,7 +71473,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:32:28Z",
+        "datetime": "2026-10-21T07:21:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -71913,6 +72093,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:03:13Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-26T05:26:26Z",
         "scriptName": "emby-proxy"
       },
@@ -71933,22 +72123,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-29T14:26:34Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-11T04:13:46Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-29T14:26:34Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -72273,7 +72463,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-03T17:58:47Z",
+        "datetime": "2026-10-21T03:35:25Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -72283,7 +72473,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:35:25Z",
+        "datetime": "2026-11-03T17:58:47Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -72353,22 +72543,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:33:41Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T12:50:24Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:33:41Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -72403,22 +72593,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-12T19:24:48Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-01T08:33:25Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 40
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-12T19:24:48Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -72533,22 +72723,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-05T04:03:36Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:18:06Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-05T04:03:36Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -72663,12 +72853,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-13T12:16:20Z",
+        "datetime": "2026-10-21T06:44:53Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 10
+        "requests": 20
       }
     },
     {
@@ -72683,12 +72873,12 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T06:44:53Z",
+        "datetime": "2026-11-13T12:16:20Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
-        "requests": 20
+        "requests": 10
       }
     },
     {
@@ -73573,7 +73763,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-27T02:57:11Z",
+        "datetime": "2026-10-21T03:29:59Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -73583,7 +73773,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:29:59Z",
+        "datetime": "2026-10-27T02:57:11Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74363,7 +74553,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T05:02:32Z",
+        "datetime": "2026-10-21T02:45:07Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74373,7 +74563,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:45:07Z",
+        "datetime": "2026-10-21T05:02:32Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74503,7 +74693,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T01:57:23Z",
+        "datetime": "2026-10-19T22:55:30Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74513,7 +74703,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T22:55:30Z",
+        "datetime": "2026-10-21T01:57:23Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74553,7 +74743,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-04T12:34:34Z",
+        "datetime": "2026-10-21T03:18:01Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74573,7 +74763,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:18:01Z",
+        "datetime": "2026-11-04T12:34:34Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74773,22 +74963,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:42:47Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-31T15:39:38Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:42:47Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -74943,7 +75133,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-30T08:51:33Z",
+        "datetime": "2026-11-06T05:17:50Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -74963,7 +75153,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:17:50Z",
+        "datetime": "2026-10-30T08:51:33Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -76003,7 +76193,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-16T00:50:33Z",
+        "datetime": "2026-10-31T14:35:20Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -76013,7 +76203,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-31T14:35:20Z",
+        "datetime": "2026-11-16T00:50:33Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -76733,16 +76923,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:58:56Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T12:09:25Z",
         "scriptName": "emby-proxy"
       },
@@ -76753,7 +76933,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T04:06:17Z",
+        "datetime": "2026-10-21T02:58:56Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -76763,7 +76943,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:19:02Z",
+        "datetime": "2026-10-21T04:06:17Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -77063,6 +77243,16 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T08:27:50Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-10-22T09:34:45Z",
         "scriptName": "emby-proxy"
       },
@@ -77213,16 +77403,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:18:40Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 40
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-26T06:50:30Z",
         "scriptName": "emby-proxy"
       },
@@ -77309,6 +77489,16 @@
       "sum": {
         "errors": 0,
         "requests": 30
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T10:11:06Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 170
       }
     },
     {
@@ -77533,12 +77723,32 @@
     },
     {
       "dimensions": {
+        "datetime": "2026-11-18T09:05:32Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
         "datetime": "2026-11-10T03:19:07Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 90
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:05:07Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -77893,16 +78103,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-19T08:31:45Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 140
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T03:17:00Z",
         "scriptName": "emby-proxy"
       },
@@ -78073,22 +78273,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:37:24Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-30T11:03:34Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:37:24Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -78353,7 +78553,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-12T12:10:41Z",
+        "datetime": "2026-11-06T05:03:08Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -78373,7 +78573,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:03:08Z",
+        "datetime": "2026-11-12T12:10:41Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -78723,22 +78923,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-14T13:57:32Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T02:25:13Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-14T13:57:32Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -78864,16 +79064,6 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T06:12:58Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-19T08:17:34Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -79223,22 +79413,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:52:07Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T09:58:05Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T03:52:07Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -79373,7 +79563,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-26T05:26:28Z",
+        "datetime": "2026-11-05T03:55:52Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -79383,7 +79573,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-05T03:55:52Z",
+        "datetime": "2026-10-26T05:26:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -80053,7 +80243,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-30T19:52:35Z",
+        "datetime": "2026-11-03T14:24:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -80063,7 +80253,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-03T14:24:40Z",
+        "datetime": "2026-10-30T19:52:35Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -80109,6 +80299,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T10:11:00Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 100
       }
     },
     {
@@ -80194,6 +80394,16 @@
     {
       "dimensions": {
         "datetime": "2026-10-21T08:29:18Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T06:29:24Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -80413,7 +80623,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:24:33Z",
+        "datetime": "2026-11-06T05:20:00Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -80423,7 +80633,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:20:00Z",
+        "datetime": "2026-10-21T02:24:33Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -80573,22 +80783,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-16T09:30:01Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 50
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T16:13:52Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-16T09:30:01Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 50
       }
     },
     {
@@ -80883,7 +81093,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-30T11:02:34Z",
+        "datetime": "2026-10-21T02:40:05Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -80893,7 +81103,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:40:05Z",
+        "datetime": "2026-10-30T11:02:34Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -81613,22 +81823,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:25:29Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 30
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-06T05:06:48Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T03:25:29Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 30
       }
     },
     {
@@ -81649,6 +81859,16 @@
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T06:33:32Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -81823,7 +82043,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T04:45:26Z",
+        "datetime": "2026-11-14T06:15:26Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -81833,7 +82053,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-14T06:15:26Z",
+        "datetime": "2026-10-21T04:45:26Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -81913,22 +82133,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:23:22Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-07T08:33:58Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:23:22Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -82073,7 +82293,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T03:35:43Z",
+        "datetime": "2026-10-21T08:15:56Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82083,7 +82303,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T08:15:56Z",
+        "datetime": "2026-10-21T03:35:43Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82233,22 +82453,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T02:26:03Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-29T15:35:30Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 10
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-10-21T02:26:03Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
       }
     },
     {
@@ -82533,22 +82753,22 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-09T04:52:00Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 10
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-10-21T10:12:28Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-09T04:52:00Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 10
       }
     },
     {
@@ -82653,7 +82873,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-11T20:36:16Z",
+        "datetime": "2026-11-06T05:19:33Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82663,7 +82883,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:19:33Z",
+        "datetime": "2026-11-11T20:36:16Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82773,7 +82993,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T10:12:45Z",
+        "datetime": "2026-10-21T06:35:04Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82783,7 +83003,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-10-21T06:35:04Z",
+        "datetime": "2026-10-21T10:12:45Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82843,16 +83063,6 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-06T05:11:13Z",
-        "scriptName": "emby-proxy"
-      },
-      "sum": {
-        "errors": 0,
-        "requests": 20
-      }
-    },
-    {
-      "dimensions": {
         "datetime": "2026-11-06T13:47:54Z",
         "scriptName": "emby-proxy"
       },
@@ -82863,7 +83073,7 @@
     },
     {
       "dimensions": {
-        "datetime": "2026-11-05T23:27:40Z",
+        "datetime": "2026-11-06T05:11:13Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82874,6 +83084,16 @@
     {
       "dimensions": {
         "datetime": "2026-11-06T13:08:31Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-05T23:27:40Z",
         "scriptName": "emby-proxy"
       },
       "sum": {
@@ -82939,6 +83159,16 @@
       "sum": {
         "errors": 0,
         "requests": 20
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T10:10:57Z",
+        "scriptName": "emby-proxy"
+      },
+      "sum": {
+        "errors": 0,
+        "requests": 130
       }
     },
     {
@@ -83223,78 +83453,6 @@
     }
   ],
   "traffic": [
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T03:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 3107
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T04:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 2421921
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T05:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 8206
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T06:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 5549
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T07:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 1094675113
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T08:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 4691297266
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T09:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 4747971923
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T10:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 426908
-      }
-    },
-    {
-      "dimensions": {
-        "datetime": "2026-10-14T11:00:00Z"
-      },
-      "sum": {
-        "edgeResponseBytes": 40073
-      }
-    },
     {
       "dimensions": {
         "datetime": "2026-10-14T12:00:00Z"
@@ -89692,7 +89850,71 @@
         "datetime": "2026-11-18T02:00:00Z"
       },
       "sum": {
-        "edgeResponseBytes": 29750
+        "edgeResponseBytes": 523243
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T03:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 517107
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T04:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 171344
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T05:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 8521
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T06:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 80220
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T07:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 47528
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T08:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 1609545
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T09:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 293918244
+      }
+    },
+    {
+      "dimensions": {
+        "datetime": "2026-11-18T10:00:00Z"
+      },
+      "sum": {
+        "edgeResponseBytes": 1847420
       }
     }
   ]
